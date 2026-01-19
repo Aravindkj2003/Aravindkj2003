@@ -1,4 +1,4 @@
-Hi there , I'm Aravind K J
+Hi there , I'm **Aravind K J**
 
 MCA student  
 Learning Python  
