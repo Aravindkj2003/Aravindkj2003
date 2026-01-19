@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there , I'm Aravind K J
 
-<!--
-**Aravindkj2003/Aravindkj2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA student  
+Learning Python  
+Interested in Data Science  
+Building projects to strengthen fundamentals  
 
-Here are some ideas to get you started:
+Currently Learning
+- Python (DSA, OOP, problem solving)
+- Basics of Data Science and Machine Learning
+- Git and GitHub best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+- Practicing coding consistently
+- Building small projects and improving logic
+- Exploring  simple ML models
+
+Connect with me :
+- GitHub: https://github.com/Aravindkj2003
+- LinkedIn: https://www.linkedin.com/in/aravind-kj2003/
